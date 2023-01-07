@@ -1,3 +1,7 @@
+
+# autho: Maciej Świtała AKA Cashtan
+
+
 import email
 import imaplib
 from time import sleep
